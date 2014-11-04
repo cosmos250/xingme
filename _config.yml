@@ -1,1 +1,11 @@
-baseurl: /
+# Site settings
+title: xcosmos
+email: cosmos250.xy@gmail.com
+description: > 
+  邢氏宇宙 xcosmos
+baseurl: ""
+url: "http://xingyong.me"
+github_username:  cosmos250
+
+# Build settings
+markdown: kramdown
