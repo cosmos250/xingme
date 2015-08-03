@@ -6,24 +6,9 @@
 </description>
     <link>http://xingyong.me/</link>
     <atom:link href="http://xingyong.me/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 07 Nov 2014 10:33:42 +0800</pubDate>
-    <lastBuildDate>Fri, 07 Nov 2014 10:33:42 +0800</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2015 17:40:16 +0800</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2015 17:40:16 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
-    
-      <item>
-        <title>this is my first blog</title>
-        <description>&lt;p&gt;这是我的第一遍文章，先测试一下，哈哈。&lt;/p&gt;
-</description>
-        <pubDate>Wed, 05 Nov 2014 07:40:00 +0800</pubDate>
-        <link>http://xingyong.me/blog/test/2014/11/05/myblog.html</link>
-        <guid isPermaLink="true">http://xingyong.me/blog/test/2014/11/05/myblog.html</guid>
-        
-        
-        <category>blog</category>
-        
-        <category>test</category>
-        
-      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
