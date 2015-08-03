@@ -1,11 +1,18 @@
 # Site settings
 title: xcosmos
 email: cosmos250.xy@gmail.com
-description: > 
-  邢氏宇宙 xcosmos
+description: 寻梦之途的博客 安卓开发
 baseurl: ""
 url: "http://xingyong.me"
 github_username:  cosmos250
+permalink: /:year/:month/:day/:title/
 
 # Build settings
 markdown: kramdown
+
+
+# highlight
+# 本地用rouge, github上用pygments
+# highlighter: pygments
+# highlighter: rouge
+# highlighter: false
